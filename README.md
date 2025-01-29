@@ -1,2 +1,1 @@
-# assembly-sokoban
-I coded this for my Computer Organization course in RISC-V 32 assembly to learn memory management at low level.
+To run the code, head over to https://cpulator.01xz.net/?sys=rv32-spim and paste in the source code.
